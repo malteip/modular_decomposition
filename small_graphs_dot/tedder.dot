@@ -1,0 +1,32 @@
+graph
+{
+    a--c;
+    a--d;
+    b--c;
+    b--d;
+    x--a;
+    x--b;
+    x--c;
+    x--d;
+    y--a;
+    y--b;
+    y--g;
+    y--f;
+    y--z;
+    z--a;
+    z--b;
+    z--h;
+    z--i;
+    z--j;
+    z--k;
+    a--e;
+    a--b;
+    a--f;
+    a--g;
+    b--e;
+    b--g;
+    b--f;
+    h--i;
+    i--j;
+    j--k;
+}

@@ -1,0 +1,40 @@
+graph
+{
+    f--c;
+    f--b;
+    f--h;
+    f--i;
+    f--g;
+    d--c;
+    d--b;
+    d--x;
+    n--l;
+    n--m;
+    n--i;
+    c--a;
+    c--e;
+    b--a;
+    b--e;
+    x--c;
+    x--b;
+    x--a;
+    x--e;
+    g--c;
+    g--b;
+    g--h;
+    g--i;
+    i--k;
+    i--l;
+    i--m;
+    i--o;
+    c--j;
+    c--b;
+    c--i;
+    c--h;
+    b--j;
+    b--h;
+    b--i;
+    k--l;
+    l--m;
+    m--o;
+}
